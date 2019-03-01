@@ -1,5 +1,5 @@
 # SFML-FlappyBird
 
-Projekt - Računalna grafika u suradnji sa [a-link](https://github.com/bolancalucia)
+Projekt - Računalna grafika u suradnji sa [https://github.com/bolancalucia](https://github.com/bolancalucia)
 
-#### Izrađeno prateći tutorial: [a-link](https://github.com/SonarSystems/Flappy-Bird-SFML-Clone?files=1)
+#### Izrađeno prateći tutorial: [https://github.com/SonarSystems/Flappy-Bird-SFML-Clone?files=1](https://github.com/SonarSystems/Flappy-Bird-SFML-Clone?files=1)
