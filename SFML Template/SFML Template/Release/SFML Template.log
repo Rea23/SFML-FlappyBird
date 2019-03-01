@@ -1,0 +1,43 @@
+﻿  AssetManager.cpp
+  Bird.cpp
+  Collision.cpp
+  Flash.cpp
+Flash.cpp(18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Flash.cpp(21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Flash.cpp(28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Flash.cpp(31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+Game.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameOverState.cpp
+GameOverState.cpp(54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+GameOverState.cpp(55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+GameOverState.cpp(62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+GameOverState.cpp(69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GameState.cpp
+GameState.cpp(94): warning C4018: '<': signed/unsigned mismatch
+GameState.cpp(104): warning C4018: '<': signed/unsigned mismatch
+GameState.cpp(116): warning C4018: '<': signed/unsigned mismatch
+  HUD.cpp
+HUD.cpp(15): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  InputManager.cpp
+InputManager.cpp(10): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+InputManager.cpp(10): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  Land.cpp
+Land.cpp(25): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  main.cpp
+  MainMenuState.cpp
+  Pipe.cpp
+Pipe.cpp(16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Pipe.cpp(16): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Pipe.cpp(22): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Pipe.cpp(28): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Pipe.cpp(35): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  SplashState.cpp
+  StateMachine.cpp
+  Generating code
+  899 of 903 functions (99.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML Template.vcxproj -> C:\Users\Rea\Desktop\FAKS\7.semestar\Računalna grafika\SFML Group\SFML Template\Release\SFML Template.exe
+  SFML Template.vcxproj -> C:\Users\Rea\Desktop\FAKS\7.semestar\Računalna grafika\SFML Group\SFML Template\Release\SFML Template.pdb (Full PDB)
