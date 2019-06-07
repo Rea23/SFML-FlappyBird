@@ -1,4 +1,4 @@
-# SFML-FlappyBird
+# C++/SFML-FlappyBird
 
 Projekt - Računalna grafika u suradnji sa [Lucia Bolanca](https://github.com/bolancalucia)
 
